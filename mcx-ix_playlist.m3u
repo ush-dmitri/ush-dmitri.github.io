@@ -1,0 +1,1091 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+http://iptv1.mcx-ix.ru:80/ort_msk/mono.m3u8
+#EXTINF:0,Россия
+http://iptv1.mcx-ix.ru:80/rossiya_1_fed/mono.m3u8
+#EXTINF:0,Матч тв
+http://iptv1.mcx-ix.ru:80/match/mono.m3u8
+#EXTINF:0,НТВ
+http://iptv1.mcx-ix.ru:80/ntv_fed/mono.m3u8
+#EXTINF:0,5 канал Петербург
+http://iptv1.mcx-ix.ru:80/5_kanal_fed/mono.m3u8
+#EXTINF:0,Россия К
+http://iptv1.mcx-ix.ru:80/rossia_k/mono.m3u8
+#EXTINF:0,Россия 24
+http://iptv1.mcx-ix.ru:80/rossia_24/mono.m3u8
+#EXTINF:0,Карусель
+http://iptv1.mcx-ix.ru:80/karusel/mono.m3u8
+#EXTINF:0,ОТР
+http://iptv1.mcx-ix.ru:80/otr/mono.m3u8
+#EXTINF:0,ТВ Центр
+http://iptv1.mcx-ix.ru:80/tv-centr-msk/mono.m3u8
+#EXTINF:0,Рен ТВ
+http://iptv1.mcx-ix.ru:80/ren-tv-msk/mono.m3u8
+#EXTINF:0,Спас
+http://iptv1.mcx-ix.ru:80/spas/mono.m3u8
+#EXTINF:0,СТС
+http://iptv1.mcx-ix.ru:80/sts_fed/mono.m3u8
+#EXTINF:0,Домашний
+http://iptv1.mcx-ix.ru:80/domashniy/mono.m3u8
+#EXTINF:0,ТВ3
+http://iptv1.mcx-ix.ru:80/tv3/mono.m3u8
+#EXTINF:0,Пятница
+http://iptv1.mcx-ix.ru:80/Pyatnica/mono.m3u8
+#EXTINF:0,Звезда
+http://iptv1.mcx-ix.ru:80/zvezda/mono.m3u8
+#EXTINF:0,Мир
+http://iptv1.mcx-ix.ru:80/mir/mono.m3u8
+#EXTINF:0,ТНТ
+http://iptv1.mcx-ix.ru:80/tnt/mono.m3u8
+#EXTINF:0,МУЗ-ТВ
+http://iptv1.mcx-ix.ru:80/muz_tv/mono.m3u8
+#EXTINF:0,Дагестан
+http://iptv1.mcx-ix.ru:80/RGVK-DAGESTAN/mono.m3u8
+#EXTINF:0,Грозный
+http://iptv1.mcx-ix.ru:80/CHGTRK-GROZNIY/mono.m3u8
+#EXTINF:0,Россия 24
+http://iptv1.mcx-ix.ru:80/rossia_24/mono.m3u8
+#EXTINF:0,Euronews
+http://iptv1.mcx-ix.ru:80/euronews/mono.m3u8
+#EXTINF:0,Известия (IZ.RU)
+http://iptv1.mcx-ix.ru:80/izvestiya/mono.m3u8
+#EXTINF:0,РБК
+http://iptv1.mcx-ix.ru:80/rbc/mono.m3u8
+#EXTINF:0,Первый Крымский
+http://iptv1.mcx-ix.ru:80/1tvcrimea/mono.m3u8
+#EXTINF:0,Крым 24
+http://iptv1.mcx-ix.ru:80/crimea24/mono.m3u8
+#EXTINF:0,Москва.Доверие (Доверие)
+http://iptv1.mcx-ix.ru:80/moskva_doverie/mono.m3u8
+#EXTINF:0,TV BRICS
+http://iptv1.mcx-ix.ru:80/TVBrics-FHD/mono.m3u8
+#EXTINF:0,Russia Today
+http://iptv1.mcx-ix.ru:80/russia-today/mono.m3u8
+#EXTINF:0,Телеканал 360
+http://iptv1.mcx-ix.ru:80/360-tv/mono.m3u8
+#EXTINF:0,Москва 24
+http://iptv1.mcx-ix.ru:80/moskva_24/mono.m3u8
+#EXTINF:0,Телеканал 360 HD
+http://iptv1.mcx-ix.ru:80/360tv_hd/mono.m3u8
+#EXTINF:0,Дон24
+http://iptv1.mcx-ix.ru:80/Don24/mono.m3u8
+#EXTINF:0,Метео ТВ
+http://iptv1.mcx-ix.ru:80/meteotv/mono.m3u8
+#EXTINF:0,Bloomberg
+http://iptv1.mcx-ix.ru:80/Bloomberg/mono.m3u8
+#EXTINF:0,Центральное ТВ
+http://iptv1.mcx-ix.ru:80/CENTRALNOE_TV/mono.m3u8
+#EXTINF:0,Крик ТВ (тест)
+http://iptv1.mcx-ix.ru:80/KrikTV/mono.m3u8
+#EXTINF:0,Эхо ТВ
+http://iptv1.mcx-ix.ru:80/ExoTV/mono.m3u8
+#EXTINF:0,Югра
+http://iptv1.mcx-ix.ru:80/Yugra/mono.m3u8
+#EXTINF:0,RTVi
+http://iptv1.mcx-ix.ru:80/RTVI/mono.m3u8
+#EXTINF:0,RT Doc (Russia Today Doc)
+http://iptv1.mcx-ix.ru:80/rt-doc/mono.m3u8
+#EXTINF:0,RT Doc HD
+http://iptv1.mcx-ix.ru:80/rtdoc_hd/mono.m3u8
+#EXTINF:0,Al Jazeera (arab)
+http://iptv1.mcx-ix.ru:80/AlJazeeraArabic/mono.m3u8
+#EXTINF:0,Al Jazeera English HD
+http://iptv1.mcx-ix.ru:80/AlJazeeraEnglishHD/mono.m3u8
+#EXTINF:0,BBC One
+http://iptv1.mcx-ix.ru:80/bbc/mono.m3u8
+#EXTINF:0,РТР Планета
+http://iptv1.mcx-ix.ru:80/RTRPlaneta/mono.m3u8
+#EXTINF:0,Карусель
+http://iptv1.mcx-ix.ru:80/karusel/mono.m3u8
+#EXTINF:0,Disney Channel
+http://iptv1.mcx-ix.ru:80/disney/mono.m3u8
+#EXTINF:0,Мультимания
+http://iptv1.mcx-ix.ru:80/multimania/mono.m3u8
+#EXTINF:0,Ani (Россия)
+http://iptv1.mcx-ix.ru:80/ani/mono.m3u8
+#EXTINF:0,О!
+http://iptv1.mcx-ix.ru:80/o_/mono.m3u8
+#EXTINF:0,Тлум HD
+http://iptv1.mcx-ix.ru:80/thlum_hd/mono.m3u8
+#EXTINF:0,Детский
+http://iptv1.mcx-ix.ru:80/detskiy/mono.m3u8
+#EXTINF:0,Радость моя
+http://iptv1.mcx-ix.ru:80/radost-moya/mono.m3u8
+#EXTINF:0,Малыш
+http://iptv1.mcx-ix.ru:80/Malysh/mono.m3u8
+#EXTINF:0,Мульт и Музыка
+http://iptv1.mcx-ix.ru:80/Mult_i_Muzyka/mono.m3u8
+#EXTINF:0,Рыжий (Teen TV)
+http://iptv1.mcx-ix.ru:80/ryzhiy/mono.m3u8
+#EXTINF:0,KIDZONE
+http://iptv1.mcx-ix.ru:80/VIASAT_KIDZONE_TV/mono.m3u8
+#EXTINF:0,KIDZONE PLUS HD
+http://iptv1.mcx-ix.ru:80/KIDZONE_PLUS_HD/mono.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://iptv1.mcx-ix.ru:80/DaVinci_Learning/mono.m3u8
+#EXTINF:0,Nick Jr
+http://iptv1.mcx-ix.ru:80/NickJr/mono.m3u8
+#EXTINF:0,Baby TV Europe (англ.)
+http://iptv1.mcx-ix.ru:80/BabyTVEurope/mono.m3u8
+#EXTINF:0,TiJi
+http://iptv1.mcx-ix.ru:80/TiJi/mono.m3u8
+#EXTINF:0,Gulli (Россия)
+http://iptv1.mcx-ix.ru:80/GulliGirl/mono.m3u8
+#EXTINF:0,JimJam (Россия)
+http://iptv1.mcx-ix.ru:80/JimJam/mono.m3u8
+#EXTINF:0,Сказки Зайки
+http://iptv1.mcx-ix.ru:80/SKAZKI-ZAYKI/mono.m3u8
+#EXTINF:0,Мульт
+http://iptv1.mcx-ix.ru:80/mult/mono.m3u8
+#EXTINF:0,Мама
+http://iptv1.mcx-ix.ru:80/mama/mono.m3u8
+#EXTINF:0,Nickelodeon
+http://iptv1.mcx-ix.ru:80/nickelodeon/mono.m3u8
+#EXTINF:0,Nickelodeon HD
+http://iptv1.mcx-ix.ru:80/NickelodeonHD/mono.m3u8
+#EXTINF:0,Boomerang
+http://iptv1.mcx-ix.ru:80/Boomerang/mono.m3u8
+#EXTINF:0,Cartoon Network
+http://iptv1.mcx-ix.ru:80/cartoon-net/mono.m3u8
+#EXTINF:0,Duck TV
+http://iptv1.mcx-ix.ru:80/DuckTV/mono.m3u8
+#EXTINF:0,Cocuk (турец.) (тест)
+http://iptv1.mcx-ix.ru:80/Cocuk/mono.m3u8
+#EXTINF:0,РАДИО: Детский
+http://iptv1.mcx-ix.ru:80/RadioDetskiy/mono.m3u8
+#EXTINF:0,РАДИО: Колыбельная
+http://iptv1.mcx-ix.ru:80/RadioKolybelnaya/mono.m3u8
+#EXTINF:0,Рубль (Синергия ТВ)
+http://iptv1.mcx-ix.ru:80/rubl/mono.m3u8
+#EXTINF:0,RTG TV
+http://iptv1.mcx-ix.ru:80/rtg/mono.m3u8
+#EXTINF:0,Авто плюс
+http://iptv1.mcx-ix.ru:80/avto_plus/mono.m3u8
+#EXTINF:0,Доктор
+http://iptv1.mcx-ix.ru:80/doctor/mono.m3u8
+#EXTINF:0,История
+http://iptv1.mcx-ix.ru:80/istoriya/mono.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+http://iptv1.mcx-ix.ru:80/kaleydoskop/mono.m3u8
+#EXTINF:0,TV BRICS
+http://iptv1.mcx-ix.ru:80/TVBrics-FHD/mono.m3u8
+#EXTINF:0,365 дней ТВ
+http://iptv1.mcx-ix.ru:80/365_dnej/mono.m3u8
+#EXTINF:0,Зоо ТВ
+http://iptv1.mcx-ix.ru:80/zoo_tv/mono.m3u8
+#EXTINF:0,ENGLISH CLUB TV
+http://iptv1.mcx-ix.ru:80/english_club_tv/mono.m3u8
+#EXTINF:0,Просвещение
+http://iptv1.mcx-ix.ru:80/prosveshenie/mono.m3u8
+#EXTINF:0,Первый образовательный
+http://iptv1.mcx-ix.ru:80/1-obrazovat/mono.m3u8
+#EXTINF:0,Бобёр
+http://iptv1.mcx-ix.ru:80/bober/mono.m3u8
+#EXTINF:0,Nano TV
+http://iptv1.mcx-ix.ru:80/nano-tv/mono.m3u8
+#EXTINF:0,NANO HD
+http://iptv1.mcx-ix.ru:80/NANOHD/mono.m3u8
+#EXTINF:0,Global Star TV
+http://iptv1.mcx-ix.ru:80/global-star/mono.m3u8
+#EXTINF:0,Загородная Жизнь
+http://iptv1.mcx-ix.ru:80/ZagorodnayaZhizn/mono.m3u8
+#EXTINF:0,Зоопарк (ZооПАРК)
+http://iptv1.mcx-ix.ru:80/Zoopark/mono.m3u8
+#EXTINF:0,ТБН
+http://iptv1.mcx-ix.ru:80/tbn-rossia/mono.m3u8
+#EXTINF:0,Телеканал 360
+http://iptv1.mcx-ix.ru:80/360-tv/mono.m3u8
+#EXTINF:0,Морской
+http://iptv1.mcx-ix.ru:80/Morskoy/mono.m3u8
+#EXTINF:0,Москва 24
+http://iptv1.mcx-ix.ru:80/moskva_24/mono.m3u8
+#EXTINF:0,Телепутешествия HD
+http://iptv1.mcx-ix.ru:80/teletravel_hd/mono.m3u8
+#EXTINF:0,ЕДА HD (Еда Премиум)
+http://iptv1.mcx-ix.ru:80/eda_hd/mono.m3u8
+#EXTINF:0,НТВ Право
+http://iptv1.mcx-ix.ru:80/NTV_Pravo/mono.m3u8
+#EXTINF:0,НТВ Стиль
+http://iptv1.mcx-ix.ru:80/NTV_Style/mono.m3u8
+#EXTINF:0,Первый Вегетарианский
+http://iptv1.mcx-ix.ru:80/PerviyVegetarianskiy/mono.m3u8
+#EXTINF:0,Совершенно Секретно
+http://iptv1.mcx-ix.ru:80/SovershennoSekretno/mono.m3u8
+#EXTINF:0,Три Ангела
+http://iptv1.mcx-ix.ru:80/tri_angela/mono.m3u8
+#EXTINF:0,Время
+http://iptv1.mcx-ix.ru:80/vremya/mono.m3u8
+#EXTINF:0,Кухня ТВ
+http://iptv1.mcx-ix.ru:80/kuhnya/mono.m3u8
+#EXTINF:0,Красная Линия
+http://iptv1.mcx-ix.ru:80/krasnaya_lin/mono.m3u8
+#EXTINF:0,Страна
+http://iptv1.mcx-ix.ru:80/strana/mono.m3u8
+#EXTINF:0,Наука 2.0
+http://iptv1.mcx-ix.ru:80/nauka_2/mono.m3u8
+#EXTINF:0,ID Fashion TV
+http://iptv1.mcx-ix.ru:80/IDFashionTV/mono.m3u8
+#EXTINF:0,Новый Мир
+http://iptv1.mcx-ix.ru:80/NoviyMir/mono.m3u8
+#EXTINF:0,Brodilo HD
+http://iptv1.mcx-ix.ru:80/BrodiloHD/mono.m3u8
+#EXTINF:0,DTX (Discovery World)
+http://iptv1.mcx-ix.ru:80/DISCOVERY_DTX/mono.m3u8
+#EXTINF:0,Animal Planet
+http://iptv1.mcx-ix.ru:80/AnimalPlanetRussia/mono.m3u8
+#EXTINF:0,Animal Planet HD
+http://iptv1.mcx-ix.ru:80/AnimalPlanetRussiaHD/mono.m3u8
+#EXTINF:0,Food Network (Россия)
+http://iptv1.mcx-ix.ru:80/FoodNetworkRussia/mono.m3u8
+#EXTINF:0,Food Network (Россия) HD
+http://iptv1.mcx-ix.ru:80/FoodNetworkRussiaHD/mono.m3u8
+#EXTINF:0,Investigation Discovery Xtra Russia
+http://iptv1.mcx-ix.ru:80/InvestigationDiscoveryXtraRussia/mono.m3u8
+#EXTINF:0,Диалоги о рыбалке
+http://iptv1.mcx-ix.ru:80/DIALOGI_O_RYBALKE/mono.m3u8
+#EXTINF:0,Discovery Channel
+http://iptv1.mcx-ix.ru:80/DiscoveryChannel/mono.m3u8
+#EXTINF:0,Discovery Channel HD
+http://iptv1.mcx-ix.ru:80/DiscoveryChannelHD/mono.m3u8
+#EXTINF:0,Discovery Science
+http://iptv1.mcx-ix.ru:80/DiscoveryScience/mono.m3u8
+#EXTINF:0,DocuBox HD
+http://iptv1.mcx-ix.ru:80/DocuBoxHD/mono.m3u8
+#EXTINF:0,Живая планета
+http://iptv1.mcx-ix.ru:80/zhivaya-planeta/mono.m3u8
+#EXTINF:0,Ocean TV
+http://iptv1.mcx-ix.ru:80/OceanTV/mono.m3u8
+#EXTINF:0,Моя планета
+http://iptv1.mcx-ix.ru:80/moya_planeta/mono.m3u8
+#EXTINF:0,Министерство Идей
+http://iptv1.mcx-ix.ru:80/ministerstvo_idey/mono.m3u8
+#EXTINF:0,Кинопоказ
+http://iptv1.mcx-ix.ru:80/kinopokaz/mono.m3u8
+#EXTINF:0,History
+http://iptv1.mcx-ix.ru:80/History/mono.m3u8
+#EXTINF:0,History HD
+http://iptv1.mcx-ix.ru:80/History-HD/mono.m3u8
+#EXTINF:0,Al Jazeera Doc (arab)
+http://iptv1.mcx-ix.ru:80/AljazeeraDoc/mono.m3u8
+#EXTINF:0,Al Jazeera (arab)
+http://iptv1.mcx-ix.ru:80/AlJazeeraArabic/mono.m3u8
+#EXTINF:0,Makkah Live HD (arab)
+http://iptv1.mcx-ix.ru:80/MakkahLiveHD/mono.m3u8
+#EXTINF:0,Nat Geo Wild
+http://iptv1.mcx-ix.ru:80/natgeo_wild/mono.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://iptv1.mcx-ix.ru:80/natgeo_wild_hd/mono.m3u8
+#EXTINF:0,National Geographic
+http://iptv1.mcx-ix.ru:80/natgeo/mono.m3u8
+#EXTINF:0,National Geographic HD
+http://iptv1.mcx-ix.ru:80/natgeo_hd/mono.m3u8
+#EXTINF:0,Outdoor Channel International
+http://iptv1.mcx-ix.ru:80/OutdoorChannelInternational/mono.m3u8
+#EXTINF:0,Spike
+http://iptv1.mcx-ix.ru:80/SPIKE/mono.m3u8
+#EXTINF:0,HD Media
+http://iptv1.mcx-ix.ru:80/HDMedia/mono.m3u8
+#EXTINF:0,РТР Планета
+http://iptv1.mcx-ix.ru:80/RTRPlaneta/mono.m3u8
+#EXTINF:0,TR!CK
+http://iptv1.mcx-ix.ru:80/TR!CK/mono.m3u8
+#EXTINF:0,Travel Channel HD
+http://iptv1.mcx-ix.ru:80/TravelChannelHD/mono.m3u8
+#EXTINF:0,Поехали!
+http://iptv1.mcx-ix.ru:80/Poehali/mono.m3u8
+#EXTINF:0,Viasat Explore
+http://iptv1.mcx-ix.ru:80/ViasatExplore/mono.m3u8
+#EXTINF:0,Viasat Nature
+http://iptv1.mcx-ix.ru:80/ViasatNature/mono.m3u8
+#EXTINF:0,Viasat History
+http://iptv1.mcx-ix.ru:80/ViasatHistory/mono.m3u8
+#EXTINF:0,Viasat History HD
+http://iptv1.mcx-ix.ru:80/ViasatHistoryHD/mono.m3u8
+#EXTINF:0,Индия ТВ
+http://iptv1.mcx-ix.ru:80/indiya/mono.m3u8
+#EXTINF:0,Bollywood
+http://iptv1.mcx-ix.ru:80/Bollywood/mono.m3u8
+#EXTINF:0,Bollywood HD
+http://iptv1.mcx-ix.ru:80/BollywoodHD/mono.m3u8
+#EXTINF:0,Zee TV
+http://iptv1.mcx-ix.ru:80/ZeeTV/mono.m3u8
+#EXTINF:0,AMEDIA 1 (A1)
+http://iptv1.mcx-ix.ru:80/amedia/mono.m3u8
+#EXTINF:0,AMEDIA 2 (A2)
+http://iptv1.mcx-ix.ru:80/amedia-2/mono.m3u8
+#EXTINF:0,Мужское кино
+http://iptv1.mcx-ix.ru:80/muzhskoe-kino/mono.m3u8
+#EXTINF:0,Мужское кино HD
+http://iptv1.mcx-ix.ru:80/muzhskoe-kino_hd/mono.m3u8
+#EXTINF:0,Наше кино (Родное кино)
+http://iptv1.mcx-ix.ru:80/nashe-kino/mono.m3u8
+#EXTINF:0,HD Кино (Киносемья)
+http://iptv1.mcx-ix.ru:80/kinosemya/mono.m3u8
+#EXTINF:0,Киноклуб (Киносвидание)
+http://iptv1.mcx-ix.ru:80/kinosvidanie/mono.m3u8
+#EXTINF:0,Премьера (Кинопремьера)
+http://iptv1.mcx-ix.ru:80/premiera/mono.m3u8
+#EXTINF:0,Премьера HD (Кинопремьера HD)
+http://iptv1.mcx-ix.ru:80/KPHD/mono.m3u8
+#EXTINF:0,Киномикс
+http://iptv1.mcx-ix.ru:80/kinomix/mono.m3u8
+#EXTINF:0,Комедия ТВ (Кинокомедия)
+http://iptv1.mcx-ix.ru:80/komediya/mono.m3u8
+#EXTINF:0,Кинохит
+http://iptv1.mcx-ix.ru:80/kinohit/mono.m3u8
+#EXTINF:0,Много ТВ (Киносерия)
+http://iptv1.mcx-ix.ru:80/mnogo-tv/mono.m3u8
+#EXTINF:0,Наше новое кино
+http://iptv1.mcx-ix.ru:80/nashe-novoe-kino/mono.m3u8
+#EXTINF:0,Любимое Кино
+http://iptv1.mcx-ix.ru:80/LubimoeKino/mono.m3u8
+#EXTINF:0,Мир сериала
+http://iptv1.mcx-ix.ru:80/MirSeriala/mono.m3u8
+#EXTINF:0,Filmzone Plus HD (англ.рус.)
+http://iptv1.mcx-ix.ru:80/FILMZONE_PLUS_HD/mono.m3u8
+#EXTINF:0,НСТ (Настоящее страшное телевидение)
+http://iptv1.mcx-ix.ru:80/nst/mono.m3u8
+#EXTINF:0,Fox Life
+http://iptv1.mcx-ix.ru:80/fox-life/mono.m3u8
+#EXTINF:0,Fox Life HD
+http://iptv1.mcx-ix.ru:80/fox_life_hd/mono.m3u8
+#EXTINF:0,НТВ Сериал
+http://iptv1.mcx-ix.ru:80/NTV_Serial/mono.m3u8
+#EXTINF:0,НТВ Хит
+http://iptv1.mcx-ix.ru:80/NTV_Hit/mono.m3u8
+#EXTINF:0,Русский Иллюзион
+http://iptv1.mcx-ix.ru:80/RusskiyIllusion/mono.m3u8
+#EXTINF:0,Теленовелла
+http://iptv1.mcx-ix.ru:80/Telenovella/mono.m3u8
+#EXTINF:0,MGM HD
+http://iptv1.mcx-ix.ru:80/MGMHD/mono.m3u8
+#EXTINF:0,Дом Кино
+http://iptv1.mcx-ix.ru:80/dom_kino/mono.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+http://iptv1.mcx-ix.ru:80/DKPHD/mono.m3u8
+#EXTINF:0,Дорама
+http://iptv1.mcx-ix.ru:80/Dorama/mono.m3u8
+#EXTINF:0,Время
+http://iptv1.mcx-ix.ru:80/vremya/mono.m3u8
+#EXTINF:0,Еврокино
+http://iptv1.mcx-ix.ru:80/Eurokino/mono.m3u8
+#EXTINF:0,FILMBOX
+http://iptv1.mcx-ix.ru:80/FILMBOX/mono.m3u8
+#EXTINF:0,TV1000
+http://iptv1.mcx-ix.ru:80/TV1000/mono.m3u8
+#EXTINF:0,TV1000Action
+http://iptv1.mcx-ix.ru:80/TV1000Action/mono.m3u8
+#EXTINF:0,TV1000 Русское Кино
+http://iptv1.mcx-ix.ru:80/tv1000rus/mono.m3u8
+#EXTINF:0,TV1000 Premium
+http://iptv1.mcx-ix.ru:80/TV1000Premium/mono.m3u8
+#EXTINF:0,TV1000 Comedy HD (VIP Comedy HD)
+http://iptv1.mcx-ix.ru:80/VIPComedyHD/mono.m3u8
+#EXTINF:0,TV1000 Premium HD (VIP Premiere HD)
+http://iptv1.mcx-ix.ru:80/VIPPremiereHD/mono.m3u8
+#EXTINF:0,TV1000 Megahit HD (VIP Megahit HD)
+http://iptv1.mcx-ix.ru:80/VIPMegahitHD/mono.m3u8
+#EXTINF:0,Новый Мир
+http://iptv1.mcx-ix.ru:80/NoviyMir/mono.m3u8
+#EXTINF:0,Кино ТВ HD
+http://iptv1.mcx-ix.ru:80/kino_tv_hd/mono.m3u8
+#EXTINF:0,Русский роман
+http://iptv1.mcx-ix.ru:80/rus-roman/mono.m3u8
+#EXTINF:0,Русский роман HD
+http://iptv1.mcx-ix.ru:80/russki_roman_hd/mono.m3u8
+#EXTINF:0,Русский бестселлер
+http://iptv1.mcx-ix.ru:80/rus-bestseller/mono.m3u8
+#EXTINF:0,Русский детектив
+http://iptv1.mcx-ix.ru:80/rus-detective/mono.m3u8
+#EXTINF:0,Fox
+http://iptv1.mcx-ix.ru:80/fox/mono.m3u8
+#EXTINF:0,КиноМеню HD
+http://iptv1.mcx-ix.ru:80/KinoMenuHD/mono.m3u8
+#EXTINF:0,Paramount Comedy
+http://iptv1.mcx-ix.ru:80/paramount-comedy/mono.m3u8
+#EXTINF:0,Paramount Channel
+http://iptv1.mcx-ix.ru:80/ParamountChannelRussia/mono.m3u8
+#EXTINF:0,SET (Sony Channel)
+http://iptv1.mcx-ix.ru:80/SonyChannelRussia/mono.m3u8
+#EXTINF:0,Sony Sci-Fi Russia
+http://iptv1.mcx-ix.ru:80/SonySci-FiRussia/mono.m3u8
+#EXTINF:0,Sony Turbo (Россия)
+http://iptv1.mcx-ix.ru:80/SonyTurbo/mono.m3u8
+#EXTINF:0,Детектив.ТВ
+http://iptv1.mcx-ix.ru:80/Detektiv_tv/mono.m3u8
+#EXTINF:0,Супер
+http://iptv1.mcx-ix.ru:80/Super/mono.m3u8
+#EXTINF:0,Кино ТВ
+http://iptv1.mcx-ix.ru:80/kino-tv/mono.m3u8
+#EXTINF:0,AMC Russia
+http://iptv1.mcx-ix.ru:80/AMCRussia/mono.m3u8
+#EXTINF:0,Amedia Hit
+http://iptv1.mcx-ix.ru:80/AmediaHit/mono.m3u8
+#EXTINF:0,Amedia Premium
+http://iptv1.mcx-ix.ru:80/AmediaPremium/mono.m3u8
+#EXTINF:0,CGTN Russkiy
+http://iptv1.mcx-ix.ru:80/CGTNRusskiy/mono.m3u8
+#EXTINF:0,Viasat Explore
+http://iptv1.mcx-ix.ru:80/ViasatExplore/mono.m3u8
+#EXTINF:0,Amedia Hit HD
+http://iptv1.mcx-ix.ru:80/amedia_hit_hd/mono.m3u8
+#EXTINF:0,Матч тв
+http://iptv1.mcx-ix.ru:80/match/mono.m3u8
+#EXTINF:0,МАТЧ! Боец
+http://iptv1.mcx-ix.ru:80/boez/mono.m3u8
+#EXTINF:0,МАТЧ! АРЕНА (Спорт 1)
+http://iptv1.mcx-ix.ru:80/arena/mono.m3u8
+#EXTINF:0,Матч! Игра
+http://iptv1.mcx-ix.ru:80/match-igra/mono.m3u8
+#EXTINF:0,Матч! Игра HD
+http://iptv1.mcx-ix.ru:80/match-igra_hd/mono.m3u8
+#EXTINF:0,МАТЧ! НАШ СПОРТ (Спорт+)
+http://iptv1.mcx-ix.ru:80/nash_sport/mono.m3u8
+#EXTINF:0,Футбол
+http://iptv1.mcx-ix.ru:80/football/mono.m3u8
+#EXTINF:0,КХЛ ТВ
+http://iptv1.mcx-ix.ru:80/khl/mono.m3u8
+#EXTINF:0,Живи!
+http://iptv1.mcx-ix.ru:80/zhivi/mono.m3u8
+#EXTINF:0,Матч тв HD
+http://iptv1.mcx-ix.ru:80/match_hd/mono.m3u8
+#EXTINF:0,КХЛ HD
+http://iptv1.mcx-ix.ru:80/khl_hd/mono.m3u8
+#EXTINF:0,Матч! Арена HD
+http://iptv1.mcx-ix.ru:80/arena_hd/mono.m3u8
+#EXTINF:0,Наш футбол (Матч! Премьер)
+http://iptv1.mcx-ix.ru:80/nash-football/mono.m3u8
+#EXTINF:0,Наш Футбол HD (Матч! Премьер HD)
+http://iptv1.mcx-ix.ru:80/nash_football_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://iptv1.mcx-ix.ru:80/futball-1/mono.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://iptv1.mcx-ix.ru:80/football2/mono.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://iptv1.mcx-ix.ru:80/football3/mono.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://iptv1.mcx-ix.ru:80/football1_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+http://iptv1.mcx-ix.ru:80/football2_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+http://iptv1.mcx-ix.ru:80/football3_hd/mono.m3u8
+#EXTINF:0,БОКС ТВ
+http://iptv1.mcx-ix.ru:80/BoxTV/mono.m3u8
+#EXTINF:0,Точка отрыва
+http://iptv1.mcx-ix.ru:80/TOCHKA_OTRIVA/mono.m3u8
+#EXTINF:0,SETANTA SPORTS HD
+http://iptv1.mcx-ix.ru:80/SETANTA_SPORTS_HD/mono.m3u8
+#EXTINF:0,Eurosport HD
+http://iptv1.mcx-ix.ru:80/EurosportHD/mono.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://iptv1.mcx-ix.ru:80/Eurosport1HD/mono.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://iptv1.mcx-ix.ru:80/Eurosport2HD/mono.m3u8
+#EXTINF:0,Extreme Sports
+http://iptv1.mcx-ix.ru:80/ExtremeSports/mono.m3u8
+#EXTINF:0,Горная Страна
+http://iptv1.mcx-ix.ru:80/GornayaStrana/mono.m3u8
+#EXTINF:0,Сила ТВ HD
+http://iptv1.mcx-ix.ru:80/SilaTV-HD/mono.m3u8
+#EXTINF:0,Русский Экстрим
+http://iptv1.mcx-ix.ru:80/rus-extrim/mono.m3u8
+#EXTINF:0,Русский Экстрим HD
+http://iptv1.mcx-ix.ru:80/rus-extrim-hd/mono.m3u8
+#EXTINF:0,Viasat Golf
+http://iptv1.mcx-ix.ru:80/Viasat_Golf/mono.m3u8
+#EXTINF:0,SUPER TENNIS HD (итал.)
+http://iptv1.mcx-ix.ru:80/SUPERTENNIS_HD/mono.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://iptv1.mcx-ix.ru:80/futball-1/mono.m3u8
+#EXTINF:0,Viasat Sport HD
+http://iptv1.mcx-ix.ru:80/ViasatSportHD/mono.m3u8
+#EXTINF:0,МУЗ-ТВ
+http://iptv1.mcx-ix.ru:80/muz_tv/mono.m3u8
+#EXTINF:0,ТНТ MUSIC
+http://iptv1.mcx-ix.ru:80/a-one/mono.m3u8
+#EXTINF:0,RU.TV
+http://iptv1.mcx-ix.ru:80/ru-tv/mono.m3u8
+#EXTINF:0,MTV Live HD
+http://iptv1.mcx-ix.ru:80/mtvlivehd/video.m3u8
+#EXTINF:0,Bridge TV
+http://iptv1.mcx-ix.ru:80/bridge-tv/mono.m3u8
+#EXTINF:0,Bridge TV Dance
+http://iptv1.mcx-ix.ru:80/dange/mono.m3u8
+#EXTINF:0,RUSONG TV (Bridge TV Русский Хит)
+http://iptv1.mcx-ix.ru:80/rusong/mono.m3u8
+#EXTINF:0,Bridge TV Classic
+http://iptv1.mcx-ix.ru:80/topsong/mono.m3u8
+#EXTINF:0,Bridge TV HD
+http://iptv1.mcx-ix.ru:80/bridge_hd/mono.m3u8
+#EXTINF:0,Europa Plus TV
+http://iptv1.mcx-ix.ru:80/europa-plus-tv/mono.m3u8
+#EXTINF:0,ЖАРА
+http://iptv1.mcx-ix.ru:80/Jara/mono.m3u8
+#EXTINF:0,1HD Music Television
+http://iptv1.mcx-ix.ru:80/1hd/mono.m3u8
+#EXTINF:0,Шансон ТВ
+http://iptv1.mcx-ix.ru:80/ShansonTV/mono.m3u8
+#EXTINF:0,Наше ТВ
+http://iptv1.mcx-ix.ru:80/nashe/mono.m3u8
+#EXTINF:0,Desi Channel (инд.)
+http://iptv1.mcx-ix.ru:80/desichannel/mono.m3u8
+#EXTINF:0,Radio JAVAN TV (иран)
+http://iptv1.mcx-ix.ru:80/RadioJavan/mono.m3u8
+#EXTINF:0,О2 ТВ
+http://iptv1.mcx-ix.ru:80/o2_tv/mono.m3u8
+#EXTINF:0,M2O TV
+http://iptv1.mcx-ix.ru:80/m2otv/mono.m3u8
+#EXTINF:0,MUZZONE TV
+http://iptv1.mcx-ix.ru:80/muzzone/mono.m3u8
+#EXTINF:0,Oxigeno Music TV (тест)
+http://iptv1.mcx-ix.ru:80/OxigenoMusicTV/mono.m3u8
+#EXTINF:0,Kronehit TV HD
+http://iptv1.mcx-ix.ru:80/KronehitTVHD/mono.m3u8
+#EXTINF:0,Deluxe Music HD
+http://iptv1.mcx-ix.ru:80/DeluxeMusicHD/mono.m3u8
+#EXTINF:0,MUSICBOX
+http://iptv1.mcx-ix.ru:80/music-box-tv/mono.m3u8
+#EXTINF:0,RUSSIAN MUSICBOX
+http://iptv1.mcx-ix.ru:80/music-box-ru/mono.m3u8
+#EXTINF:0,Zoom (инд.)
+http://iptv1.mcx-ix.ru:80/zoom/mono.m3u8
+#EXTINF:0,Музыка первого
+http://iptv1.mcx-ix.ru:80/muz-pervogo/mono.m3u8
+#EXTINF:0,Ностальгия
+http://iptv1.mcx-ix.ru:80/nostalgia/mono.m3u8
+#EXTINF:0,Mezzo
+http://iptv1.mcx-ix.ru:80/Mezzo/mono.m3u8
+#EXTINF:0,Mezzo Live HD
+http://iptv1.mcx-ix.ru:80/MezzoLiveHD/mono.m3u8
+#EXTINF:0,MTV Rocks
+http://iptv1.mcx-ix.ru:80/MTVRocks/mono.m3u8
+#EXTINF:0,Первый Музыкальный
+http://iptv1.mcx-ix.ru:80/PERVIY_MUZIKALNIY/mono.m3u8
+#EXTINF:0,Первый Музыкальный HD
+http://iptv1.mcx-ix.ru:80/PERVIY_MUZIKALNIY_HD/mono.m3u8
+#EXTINF:0,Первый Музыкальный RU
+http://iptv1.mcx-ix.ru:80/PERVIY_RU_MUZIKALNIY/mono.m3u8
+#EXTINF:0,Первый Музыкальный RU HD
+http://iptv1.mcx-ix.ru:80/PERVIY_RU_MUZIKALNIY_HD/mono.m3u8
+#EXTINF:0,iConcerts
+http://iptv1.mcx-ix.ru:80/SDI_ICONCERTS/mono.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://iptv1.mcx-ix.ru:80/DaVinci_Learning/mono.m3u8
+#EXTINF:0,Jukebox
+http://iptv1.mcx-ix.ru:80/Jukebox/mono.m3u8
+#EXTINF:0,MCM Top Russia
+http://iptv1.mcx-ix.ru:80/MCMTopRussia/mono.m3u8
+#EXTINF:0,Dream Turk (турец.)
+http://iptv1.mcx-ix.ru:80/DreamTurk/mono.m3u8
+#EXTINF:0,KRAL TV (Турция) (турец.)
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:0,Kral TV Pop HD (турец.) (тест)
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+#EXTINF:0,ACB TV (9 Волна)
+http://iptv1.mcx-ix.ru:80/9-volna/mono.m3u8
+#EXTINF:0,Южная Волна HD
+http://iptv1.mcx-ix.ru:80/YUJNAYA-VOLNA-HD/mono.m3u8
+#EXTINF:0,MTV Азербайджан (азерб.) (тест)
+http://iptv1.mcx-ix.ru:80/MTV_Azerbaijan/mono.m3u8
+#EXTINF:0,Muz TV Азербайджан (азерб.) (тест)
+http://iptv1.mcx-ix.ru:80/MuzTV_Azerbaijan/mono.m3u8
+#EXTINF:0,MTV Армения (армян.) (тест)
+http://iptv1.mcx-ix.ru:80/MTV_Armeniya/mono.m3u8
+#EXTINF:0,MTV Россия
+http://iptv1.mcx-ix.ru:80/mtv-rus/mono.m3u8
+#EXTINF:0,Caltex Music (иран)
+http://iptv1.mcx-ix.ru:80/CaltexMusic/mono.m3u8
+#EXTINF:0,NRJ Hits
+http://iptv1.mcx-ix.ru:80/NRJHits/mono.m3u8
+#EXTINF:0,NRJ TV
+http://iptv1.mcx-ix.ru:80/NRJTV/mono.m3u8
+#EXTINF:0,РАДИО: Европа +
+http://iptv1.mcx-ix.ru:80/RadioEuropaPlus/mono.m3u8
+#EXTINF:0,РАДИО: MONTE CARLO TV
+http://iptv1.mcx-ix.ru:80/RADIO-MONTE-CARLO-TV/mono.m3u8
+#EXTINF:0,РАДИО: NRJ
+http://iptv1.mcx-ix.ru:80/NRJ/mono.m3u8
+#EXTINF:0,РАДИО: DFM
+https://dfmradio.gcdn.co/dfm_m.aac
+#EXTINF:0,РАДИО: Record
+http://iptv1.mcx-ix.ru:80/RadioRecord/mono.m3u8
+#EXTINF:0,РАДИО: Record Minimal
+http://iptv1.mcx-ix.ru:80/RadioRecordMinimal/mono.m3u8
+#EXTINF:0,РАДИО: Dubstep FM
+http://iptv1.mcx-ix.ru:80/DubstepFM/mono.m3u8
+#EXTINF:0,РАДИО: Шторм FM
+http://iptv1.mcx-ix.ru:80/StormFM/mono.m3u8
+#EXTINF:0,РАДИО: Зайцев FM (RnB)
+http://iptv1.mcx-ix.ru:80/ZaycevFMrnb/mono.m3u8
+#EXTINF:0,РАДИО: Зайцев FM (Шансон)
+http://iptv1.mcx-ix.ru:80/ZaycevFMshanson/mono.m3u8
+#EXTINF:0,РАДИО: Шансон
+http://iptv1.mcx-ix.ru:80/RadioShanson/mono.m3u8
+#EXTINF:0,РАДИО: Шоколад FM
+http://iptv1.mcx-ix.ru:80/ShokoladFM/mono.m3u8
+#EXTINF:0,РАДИО: Chillout Lounge Radio
+http://iptv1.mcx-ix.ru:80/ChilloutLoungeRadio/mono.m3u8
+#EXTINF:0,РАДИО: RelaxFM
+http://iptv1.mcx-ix.ru:80/RadioRelaxFM/mono.m3u8
+#EXTINF:0,РАДИО: Колыбельная
+http://iptv1.mcx-ix.ru:80/RadioKolybelnaya/mono.m3u8
+#EXTINF:0,РАДИО: Ватан
+http://iptv1.mcx-ix.ru:80/RadioVATAN/mono.m3u8
+#EXTINF:0,РАДИО: Азан - Голос Ислама
+http://iptv1.mcx-ix.ru:80/RadioAZAN/mono.m3u8
+#EXTINF:0,РАДИО: Прибой
+http://stream6.radiostyle.ru:8006/priboyfm
+#EXTINF:0,РАДИО: АссА
+http://iptv1.mcx-ix.ru:80/RadioASSA/mono.m3u8
+#EXTINF:0,РАДИО: Грозный
+http://live2.mediacdn.ru/sr1/radiogrozny/chunklist.m3u8
+#EXTINF:0,MAYAK_ тестовый клип
+http://video05.ru/mm/video/clip/Clip011.mp4
+#EXTINF:0,Телеканал 2x2
+http://iptv1.mcx-ix.ru:80/2x2/mono.m3u8
+#EXTINF:0,Че
+http://iptv1.mcx-ix.ru:80/che/mono.m3u8
+#EXTINF:0,ТНТ4
+http://iptv1.mcx-ix.ru:80/tnt-4/mono.m3u8
+#EXTINF:0,Москва.Доверие (Доверие)
+http://iptv1.mcx-ix.ru:80/moskva_doverie/mono.m3u8
+#EXTINF:0,Luxury World
+http://iptv1.mcx-ix.ru:80/luxury-world/mono.m3u8
+#EXTINF:0,Юмор ТВ
+http://iptv1.mcx-ix.ru:80/yumor-tv/mono.m3u8
+#EXTINF:0,ЖАРА
+http://iptv1.mcx-ix.ru:80/Jara/mono.m3u8
+#EXTINF:0,Fox HD
+http://iptv1.mcx-ix.ru:80/fox_hd/mono.m3u8
+#EXTINF:0,7ТВ
+http://iptv1.mcx-ix.ru:80/7tv/mono.m3u8
+#EXTINF:0,ТНТ HD
+http://iptv1.mcx-ix.ru:80/tnt_hd/mono.m3u8
+#EXTINF:0,О2 ТВ
+http://iptv1.mcx-ix.ru:80/o2_tv/mono.m3u8
+#EXTINF:0,Открытый мир
+http://iptv1.mcx-ix.ru:80/otkr_mir/mono.m3u8
+#EXTINF:0,КВН ТВ
+http://iptv1.mcx-ix.ru:80/kvn_tv/mono.m3u8
+#EXTINF:0,Сарафан ТВ
+http://iptv1.mcx-ix.ru:80/sarafan/mono.m3u8
+#EXTINF:0,Телепутешествия
+http://iptv1.mcx-ix.ru:80/teleputeshestviya/mono.m3u8
+#EXTINF:0,ID Fashion TV
+http://iptv1.mcx-ix.ru:80/IDFashionTV/mono.m3u8
+#EXTINF:0,Центральное ТВ
+http://iptv1.mcx-ix.ru:80/CENTRALNOE_TV/mono.m3u8
+#EXTINF:0,Эхо ТВ
+http://iptv1.mcx-ix.ru:80/ExoTV/mono.m3u8
+#EXTINF:0,Русский Экстрим
+http://iptv1.mcx-ix.ru:80/rus-extrim/mono.m3u8
+#EXTINF:0,Русский Экстрим HD
+http://iptv1.mcx-ix.ru:80/rus-extrim-hd/mono.m3u8
+#EXTINF:0,RTVi
+http://iptv1.mcx-ix.ru:80/RTVI/mono.m3u8
+#EXTINF:0,Супер
+http://iptv1.mcx-ix.ru:80/Super/mono.m3u8
+#EXTINF:0,CBS Reality
+http://iptv1.mcx-ix.ru:80/CBSReality/mono.m3u8
+#EXTINF:0,TR!CK
+http://iptv1.mcx-ix.ru:80/TR!CK/mono.m3u8
+#EXTINF:0,Поехали!
+http://iptv1.mcx-ix.ru:80/Poehali/mono.m3u8
+#EXTINF:0,Дагестан
+http://iptv1.mcx-ix.ru:80/RGVK-DAGESTAN/mono.m3u8
+#EXTINF:0,Zee TV
+http://iptv1.mcx-ix.ru:80/ZeeTV/mono.m3u8
+#EXTINF:0,NHK World TV (англ.)
+http://iptv1.mcx-ix.ru:80/nhk_world/mono.m3u8
+#EXTINF:0,NTD TV East (китай)
+http://iptv1.mcx-ix.ru:80/ntd_tv_east/mono.m3u8
+#EXTINF:0,English Club
+http://iptv1.mcx-ix.ru:80/english_club_tv/mono.m3u8
+#EXTINF:0,Arirang TV
+http://iptv1.mcx-ix.ru:80/arirang/mono.m3u8
+#EXTINF:0,France 24 (англ.)
+http://iptv1.mcx-ix.ru:80/france-24/mono.m3u8
+#EXTINF:0,France 24 (фран.)
+http://iptv1.mcx-ix.ru:80/france24/mono.m3u8
+#EXTINF:0,Deutsche Welle
+http://iptv1.mcx-ix.ru:80/deuche-welle/mono.m3u8
+#EXTINF:0,ТНВ Татарстан
+http://iptv1.mcx-ix.ru:80/tnv-tatar/mono.m3u8
+#EXTINF:0,Armenia TV (Армения ТВ (армян.))
+http://iptv1.mcx-ix.ru:80/ArmeniyaTV/mono.m3u8
+#EXTINF:0,AzTV (Азербайджан)
+http://iptv1.mcx-ix.ru:80/AZ-TV/mono.m3u8
+#EXTINF:0,Desi Channel (инд.)
+http://iptv1.mcx-ix.ru:80/desichannel/mono.m3u8
+#EXTINF:0,Dubai TV (араб.)
+http://iptv1.mcx-ix.ru:80/DubaiTV/mono.m3u8
+#EXTINF:0,Radio JAVAN TV (иран)
+http://iptv1.mcx-ix.ru:80/RadioJavan/mono.m3u8
+#EXTINF:0,Oxigeno Music TV (тест)
+http://iptv1.mcx-ix.ru:80/OxigenoMusicTV/mono.m3u8
+#EXTINF:0,Lider TV (Азербайджан)
+http://iptv1.mcx-ix.ru:80/LiderTV-AZ/mono.m3u8
+#EXTINF:0,Zoom (инд.)
+http://iptv1.mcx-ix.ru:80/zoom/mono.m3u8
+#EXTINF:0,Bloomberg
+http://iptv1.mcx-ix.ru:80/Bloomberg/mono.m3u8
+#EXTINF:0,KIDZONE
+http://iptv1.mcx-ix.ru:80/VIASAT_KIDZONE_TV/mono.m3u8
+#EXTINF:0,Крик ТВ (тест)
+http://iptv1.mcx-ix.ru:80/KrikTV/mono.m3u8
+#EXTINF:0,Baby TV Europe (англ.)
+http://iptv1.mcx-ix.ru:80/BabyTVEurope/mono.m3u8
+#EXTINF:0,KBS World
+http://iptv1.mcx-ix.ru:80/kbs_world/mono.m3u8
+#EXTINF:0,Dream Turk (турец.)
+http://iptv1.mcx-ix.ru:80/DreamTurk/mono.m3u8
+#EXTINF:0,KRAL TV (Турция) (турец.)
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:0,Kral TV Pop HD (турец.) (тест)
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+#EXTINF:0,Грозный
+http://iptv1.mcx-ix.ru:80/CHGTRK-GROZNIY/mono.m3u8
+#EXTINF:0,ACB TV (9 Волна)
+http://iptv1.mcx-ix.ru:80/9-volna/mono.m3u8
+#EXTINF:0,Ингушетия
+http://iptv1.mcx-ix.ru:80/INGUSHETIYA/mono.m3u8
+#EXTINF:0,Южная Волна HD
+http://iptv1.mcx-ix.ru:80/YUJNAYA-VOLNA-HD/mono.m3u8
+#EXTINF:0,Астрахань 24
+http://iptv1.mcx-ix.ru:80/ASTRAHAN-24/mono.m3u8
+#EXTINF:0,Краснодар ТВ
+http://iptv1.mcx-ix.ru:80/KRASNODAR-TV/mono.m3u8
+#EXTINF:0,ЮТВ (Чебоксары)
+http://iptv1.mcx-ix.ru:80/utv/mono.m3u8
+#EXTINF:0,Туган тел
+http://iptv1.mcx-ix.ru:80/TuganTel/mono.m3u8
+#EXTINF:0,Беларусь 24
+http://iptv1.mcx-ix.ru:80/belarus_24/mono.m3u8
+#EXTINF:0,MTV Азербайджан (азерб.) (тест)
+http://iptv1.mcx-ix.ru:80/MTV_Azerbaijan/mono.m3u8
+#EXTINF:0,Muz TV Азербайджан (азерб.) (тест)
+http://iptv1.mcx-ix.ru:80/MuzTV_Azerbaijan/mono.m3u8
+#EXTINF:0,MTV Армения (армян.) (тест)
+http://iptv1.mcx-ix.ru:80/MTV_Armeniya/mono.m3u8
+#EXTINF:0,RT Doc (Russia Today Doc)
+http://iptv1.mcx-ix.ru:80/rt-doc/mono.m3u8
+#EXTINF:0,Al Jazeera Doc (arab)
+http://iptv1.mcx-ix.ru:80/AljazeeraDoc/mono.m3u8
+#EXTINF:0,Al Jazeera English HD
+http://iptv1.mcx-ix.ru:80/AlJazeeraEnglishHD/mono.m3u8
+#EXTINF:0,Makkah Live HD (arab)
+http://iptv1.mcx-ix.ru:80/MakkahLiveHD/mono.m3u8
+#EXTINF:0,Caltex Music (иран)
+http://iptv1.mcx-ix.ru:80/CaltexMusic/mono.m3u8
+#EXTINF:0,SUPER TENNIS HD (итал.)
+http://iptv1.mcx-ix.ru:80/SUPERTENNIS_HD/mono.m3u8
+#EXTINF:0,Cocuk (турец.) (тест)
+http://iptv1.mcx-ix.ru:80/Cocuk/mono.m3u8
+#EXTINF:0,РАДИО: Ватан
+http://iptv1.mcx-ix.ru:80/RadioVATAN/mono.m3u8
+#EXTINF:0,РАДИО: Азан - Голос Ислама
+http://iptv1.mcx-ix.ru:80/RadioAZAN/mono.m3u8
+#EXTINF:0,РАДИО: Abdulbasit Abdulsamad MJAWWAD
+http://184.173.185.71:9974
+#EXTINF:0,РАДИО: Mishary Alafasi
+http://184.173.185.71:8010
+#EXTINF:0,НТВ HD
+http://iptv1.mcx-ix.ru:80/NTV_HD/mono.m3u8
+#EXTINF:0,Bollywood HD
+http://iptv1.mcx-ix.ru:80/BollywoodHD/mono.m3u8
+#EXTINF:0,Матч! Игра HD
+http://iptv1.mcx-ix.ru:80/match-igra_hd/mono.m3u8
+#EXTINF:0,Тлум HD
+http://iptv1.mcx-ix.ru:80/thlum_hd/mono.m3u8
+#EXTINF:0,MTV Live HD
+http://iptv1.mcx-ix.ru:80/mtvlivehd/video.m3u8
+#EXTINF:0,Мужское кино HD
+http://iptv1.mcx-ix.ru:80/muzhskoe-kino_hd/mono.m3u8
+#EXTINF:0,Премьера HD (Кинопремьера HD)
+http://iptv1.mcx-ix.ru:80/KPHD/mono.m3u8
+#EXTINF:0,Bridge TV HD
+http://iptv1.mcx-ix.ru:80/bridge_hd/mono.m3u8
+#EXTINF:0,Первый HD
+http://iptv1.mcx-ix.ru:80/ort_hd/mono.m3u8
+#EXTINF:0,Россия HD
+http://iptv1.mcx-ix.ru:80/rossia_hd/mono.m3u8
+#EXTINF:0,1HD Music Television
+http://iptv1.mcx-ix.ru:80/1hd/mono.m3u8
+#EXTINF:0,Матч тв HD
+http://iptv1.mcx-ix.ru:80/match_hd/mono.m3u8
+#EXTINF:0,Теледом HD
+http://iptv1.mcx-ix.ru:80/teledom_hd/mono.m3u8
+#EXTINF:0,Fox HD
+http://iptv1.mcx-ix.ru:80/fox_hd/mono.m3u8
+#EXTINF:0,Телеканал 360 HD
+http://iptv1.mcx-ix.ru:80/360tv_hd/mono.m3u8
+#EXTINF:0,Телепутешествия HD
+http://iptv1.mcx-ix.ru:80/teletravel_hd/mono.m3u8
+#EXTINF:0,ЕДА HD (Еда Премиум)
+http://iptv1.mcx-ix.ru:80/eda_hd/mono.m3u8
+#EXTINF:0,Охотник и рыболов HD
+http://iptv1.mcx-ix.ru:80/ohot_i_rybolov_hd/mono.m3u8
+#EXTINF:0,КХЛ HD
+http://iptv1.mcx-ix.ru:80/khl_hd/mono.m3u8
+#EXTINF:0,Russia Today HD
+http://iptv1.mcx-ix.ru:80/rt_hd/mono.m3u8
+#EXTINF:0,RTG HD
+http://iptv1.mcx-ix.ru:80/rtg_hd/mono.m3u8
+#EXTINF:0,Планета HD
+http://iptv1.mcx-ix.ru:80/planeta_hd/mono.m3u8
+#EXTINF:0,Мир HD (МИР PREMIUM)
+http://iptv1.mcx-ix.ru:80/mir_hd/mono.m3u8
+#EXTINF:0,Fashion One HD
+http://iptv1.mcx-ix.ru:80/fashion_one_hd/mono.m3u8
+#EXTINF:0,Amedia Premium HD
+http://iptv1.mcx-ix.ru:80/amedia_premium_hd/mono.m3u8
+#EXTINF:0,Матч! Арена HD
+http://iptv1.mcx-ix.ru:80/arena_hd/mono.m3u8
+#EXTINF:0,Наш Футбол HD (Матч! Премьер HD)
+http://iptv1.mcx-ix.ru:80/nash_football_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://iptv1.mcx-ix.ru:80/football1_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+http://iptv1.mcx-ix.ru:80/football2_hd/mono.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+http://iptv1.mcx-ix.ru:80/football3_hd/mono.m3u8
+#EXTINF:0,Filmzone Plus HD (англ.рус.)
+http://iptv1.mcx-ix.ru:80/FILMZONE_PLUS_HD/mono.m3u8
+#EXTINF:0,Fox Life HD
+http://iptv1.mcx-ix.ru:80/fox_life_hd/mono.m3u8
+#EXTINF:0,MGM HD
+http://iptv1.mcx-ix.ru:80/MGMHD/mono.m3u8
+#EXTINF:0,ТНТ HD
+http://iptv1.mcx-ix.ru:80/tnt_hd/mono.m3u8
+#EXTINF:0,Deluxe Music HD
+http://iptv1.mcx-ix.ru:80/DeluxeMusicHD/mono.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+http://iptv1.mcx-ix.ru:80/DKPHD/mono.m3u8
+#EXTINF:0,Bloomberg
+http://iptv1.mcx-ix.ru:80/Bloomberg/mono.m3u8
+#EXTINF:0,Mezzo Live HD
+http://iptv1.mcx-ix.ru:80/MezzoLiveHD/mono.m3u8
+#EXTINF:0,Первый Музыкальный HD
+http://iptv1.mcx-ix.ru:80/PERVIY_MUZIKALNIY_HD/mono.m3u8
+#EXTINF:0,Первый Музыкальный RU HD
+http://iptv1.mcx-ix.ru:80/PERVIY_RU_MUZIKALNIY_HD/mono.m3u8
+#EXTINF:0,SETANTA SPORTS HD
+http://iptv1.mcx-ix.ru:80/SETANTA_SPORTS_HD/mono.m3u8
+#EXTINF:0,TV1000 Comedy HD (VIP Comedy HD)
+http://iptv1.mcx-ix.ru:80/VIPComedyHD/mono.m3u8
+#EXTINF:0,TV1000 Premium HD (VIP Premiere HD)
+http://iptv1.mcx-ix.ru:80/VIPPremiereHD/mono.m3u8
+#EXTINF:0,TV1000 Megahit HD (VIP Megahit HD)
+http://iptv1.mcx-ix.ru:80/VIPMegahitHD/mono.m3u8
+#EXTINF:0,Eurosport HD
+http://iptv1.mcx-ix.ru:80/EurosportHD/mono.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://iptv1.mcx-ix.ru:80/Eurosport1HD/mono.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://iptv1.mcx-ix.ru:80/Eurosport2HD/mono.m3u8
+#EXTINF:0,Brodilo HD
+http://iptv1.mcx-ix.ru:80/BrodiloHD/mono.m3u8
+#EXTINF:0,Animal Planet HD
+http://iptv1.mcx-ix.ru:80/AnimalPlanetRussiaHD/mono.m3u8
+#EXTINF:0,Food Network (Россия) HD
+http://iptv1.mcx-ix.ru:80/FoodNetworkRussiaHD/mono.m3u8
+#EXTINF:0,Русский Экстрим HD
+http://iptv1.mcx-ix.ru:80/rus-extrim-hd/mono.m3u8
+#EXTINF:0,Русский роман HD
+http://iptv1.mcx-ix.ru:80/russki_roman_hd/mono.m3u8
+#EXTINF:0,Kral TV Pop HD (турец.) (тест)
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+#EXTINF:0,КиноМеню HD
+http://iptv1.mcx-ix.ru:80/KinoMenuHD/mono.m3u8
+#EXTINF:0,Discovery Channel HD
+http://iptv1.mcx-ix.ru:80/DiscoveryChannelHD/mono.m3u8
+#EXTINF:0,DocuBox HD
+http://iptv1.mcx-ix.ru:80/DocuBoxHD/mono.m3u8
+#EXTINF:0,Nickelodeon HD
+http://iptv1.mcx-ix.ru:80/NickelodeonHD/mono.m3u8
+#EXTINF:0,RT Doc HD
+http://iptv1.mcx-ix.ru:80/rtdoc_hd/mono.m3u8
+#EXTINF:0,History HD
+http://iptv1.mcx-ix.ru:80/History-HD/mono.m3u8
+#EXTINF:0,Al Jazeera (arab)
+http://iptv1.mcx-ix.ru:80/AlJazeeraArabic/mono.m3u8
+#EXTINF:0,Al Jazeera English HD
+http://iptv1.mcx-ix.ru:80/AlJazeeraEnglishHD/mono.m3u8
+#EXTINF:0,Makkah Live HD (arab)
+http://iptv1.mcx-ix.ru:80/MakkahLiveHD/mono.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://iptv1.mcx-ix.ru:80/natgeo_wild_hd/mono.m3u8
+#EXTINF:0,National Geographic HD
+http://iptv1.mcx-ix.ru:80/natgeo_hd/mono.m3u8
+#EXTINF:0,SUPER TENNIS HD (итал.)
+http://iptv1.mcx-ix.ru:80/SUPERTENNIS_HD/mono.m3u8
+#EXTINF:0,HD Media
+http://iptv1.mcx-ix.ru:80/HDMedia/mono.m3u8
+#EXTINF:0,Viasat History HD
+http://iptv1.mcx-ix.ru:80/ViasatHistoryHD/mono.m3u8
+#EXTINF:0,Viasat Sport HD
+http://iptv1.mcx-ix.ru:80/ViasatSportHD/mono.m3u8
+#EXTINF:0,Amedia Hit HD
+http://iptv1.mcx-ix.ru:80/amedia_hit_hd/mono.m3u8
+#EXTINF:0,Festival UHD
+http://iptv1.mcx-ix.ru:80/FestivalUHD/mono.m3u8
+#EXTINF:0,Fashion One UHD
+http://iptv1.mcx-ix.ru:80/FashionOneUHD/mono.m3u8
+#EXTINF:0,TRAVEL XP 4K
+http://iptv1.mcx-ix.ru:80/DE_TRAVELXP_4K/mono.m3u8
+#EXTINF:0,ASTRA HD 4K
+http://iptv1.mcx-ix.ru:80/DE_UHD1_ASTRA_HD_4K/mono.m3u8
+#EXTINF:0,SES UHD DEMO 4K
+http://iptv1.mcx-ix.ru:80/DE_SES_UHD_DEMO_4K/mono.m3u8
+#EXTINF:0,HOME 4K
+http://iptv1.mcx-ix.ru:80/HomeUHD/mono.m3u8
+#EXTINF:0,HD Media 3D
+http://iptv1.mcx-ix.ru:80/HD-Media-3D/mono.m3u8
+#EXTINF:0,Живи!
+http://iptv1.mcx-ix.ru:80/zhivi/mono.m3u8
+#EXTINF:0,Загородная Жизнь
+http://iptv1.mcx-ix.ru:80/ZagorodnayaZhizn/mono.m3u8
+#EXTINF:0,ЕДА HD (Еда Премиум)
+http://iptv1.mcx-ix.ru:80/eda_hd/mono.m3u8
+#EXTINF:0,Охотник и рыболов HD
+http://iptv1.mcx-ix.ru:80/ohot_i_rybolov_hd/mono.m3u8
+#EXTINF:0,Дикий
+http://iptv1.mcx-ix.ru:80/Dikiy/mono.m3u8
+#EXTINF:0,НТВ Стиль
+http://iptv1.mcx-ix.ru:80/NTV_Style/mono.m3u8
+#EXTINF:0,Усадьба
+http://iptv1.mcx-ix.ru:80/Usadba/mono.m3u8
+#EXTINF:0,Кухня ТВ
+http://iptv1.mcx-ix.ru:80/kuhnya/mono.m3u8
+#EXTINF:0,TRAVEL XP 4K
+http://iptv1.mcx-ix.ru:80/DE_TRAVELXP_4K/mono.m3u8
+#EXTINF:0,ASTRA HD 4K
+http://iptv1.mcx-ix.ru:80/DE_UHD1_ASTRA_HD_4K/mono.m3u8
+#EXTINF:0,SES UHD DEMO 4K
+http://iptv1.mcx-ix.ru:80/DE_SES_UHD_DEMO_4K/mono.m3u8
+#EXTINF:0,Оружие
+http://iptv1.mcx-ix.ru:80/oruzhie/mono.m3u8
+#EXTINF:0,Авто24 HD
+http://iptv1.mcx-ix.ru:80/auto24/mono.m3u8
+#EXTINF:0,Точка отрыва
+http://iptv1.mcx-ix.ru:80/TOCHKA_OTRIVA/mono.m3u8
+#EXTINF:0,ID Fashion TV
+http://iptv1.mcx-ix.ru:80/IDFashionTV/mono.m3u8
+#EXTINF:0,ДРАЙВ ТВ
+http://iptv1.mcx-ix.ru:80/DRIVE_TV/mono.m3u8
+#EXTINF:0,Горная Страна
+http://iptv1.mcx-ix.ru:80/GornayaStrana/mono.m3u8
+#EXTINF:0,Brodilo HD
+http://iptv1.mcx-ix.ru:80/BrodiloHD/mono.m3u8
+#EXTINF:0,DTX (Discovery World)
+http://iptv1.mcx-ix.ru:80/DISCOVERY_DTX/mono.m3u8
+#EXTINF:0,Food Network (Россия)
+http://iptv1.mcx-ix.ru:80/FoodNetworkRussia/mono.m3u8
+#EXTINF:0,Food Network (Россия) HD
+http://iptv1.mcx-ix.ru:80/FoodNetworkRussiaHD/mono.m3u8
+#EXTINF:0,Диалоги о рыбалке
+http://iptv1.mcx-ix.ru:80/DIALOGI_O_RYBALKE/mono.m3u8
+#EXTINF:0,Охотник и Рыболов
+http://iptv1.mcx-ix.ru:80/ohotnik/mono.m3u8
+#EXTINF:0,Домашние Животные
+http://iptv1.mcx-ix.ru:80/DOMASHNIE-JIVOTNYE/mono.m3u8
+#EXTINF:0,Outdoor Channel International
+http://iptv1.mcx-ix.ru:80/OutdoorChannelInternational/mono.m3u8
+#EXTINF:0,Viasat Golf
+http://iptv1.mcx-ix.ru:80/Viasat_Golf/mono.m3u8
+#EXTINF:0,tnomer ТВ Ремонт
+http://iptv1.mcx-ix.ru:80/tnomer/mono.m3u8
+#EXTINF:0,Поехали!
+http://iptv1.mcx-ix.ru:80/Poehali/mono.m3u8
+#EXTINF:0,Ю
+http://iptv1.mcx-ix.ru:80/utv/mono.m3u8
+#EXTINF:0,Че
+http://iptv1.mcx-ix.ru:80/che/mono.m3u8
+#EXTINF:0,World Fashion Channel (Россия)
+http://iptv1.mcx-ix.ru:80/world-fashion/mono.m3u8
+#EXTINF:0,Рубль (Синергия ТВ)
+http://iptv1.mcx-ix.ru:80/rubl/mono.m3u8
+#EXTINF:0,100ТВ (Life78)
+http://iptv1.mcx-ix.ru:80/life78/mono.m3u8
+#EXTINF:0,Санкт-Петербург
+http://iptv1.mcx-ix.ru:80/st-peterburg/mono.m3u8
+#EXTINF:0,Вместе-РФ
+http://iptv1.mcx-ix.ru:80/vmeste/mono.m3u8
+#EXTINF:0,СТС Love
+http://iptv1.mcx-ix.ru:80/sts-love/mono.m3u8
+#EXTINF:0,Союз
+http://iptv1.mcx-ix.ru:80/soyuz/mono.m3u8
+#EXTINF:0,Точка ТВ
+http://iptv1.mcx-ix.ru:80/tochka/mono.m3u8
+#EXTINF:0,Раз ТВ
+http://iptv1.mcx-ix.ru:80/raz-tv/mono.m3u8
+#EXTINF:0,ЛОТ
+http://iptv1.mcx-ix.ru:80/lot/mono.m3u8
+#EXTINF:0,Мир 24
+http://iptv1.mcx-ix.ru:80/mir-24/mono.m3u8
+#EXTINF:0,ТДК
+http://iptv1.mcx-ix.ru:80/tdk/mono.m3u8
+#EXTINF:0,8 канал
+http://iptv1.mcx-ix.ru:80/8kanal/mono.m3u8
+#EXTINF:0,Top Shop TV
+http://iptv1.mcx-ix.ru:80/topshop/mono.m3u8
+#EXTINF:0,ТНВ-планета
+http://iptv1.mcx-ix.ru:80/tnv-planet/mono.m3u8
+#EXTINF:0,Здоровье
+http://iptv1.mcx-ix.ru:80/tonus/mono.m3u8
+#EXTINF:0,НТВ Право
+http://iptv1.mcx-ix.ru:80/NTV_Pravo/mono.m3u8
+#EXTINF:0,Совершенно Секретно
+http://iptv1.mcx-ix.ru:80/SovershennoSekretno/mono.m3u8
+#EXTINF:0,Метео ТВ
+http://iptv1.mcx-ix.ru:80/meteotv/mono.m3u8
+#EXTINF:0,РЖД ТВ
+http://iptv1.mcx-ix.ru:80/rzhd/mono.m3u8
+#EXTINF:0,Fashion TV
+http://iptv1.mcx-ix.ru:80/fashion_tv/mono.m3u8
+#EXTINF:0,Телекафе
+http://iptv1.mcx-ix.ru:80/telecafe/mono.m3u8
+#EXTINF:0,ЛДПР ТВ
+http://iptv1.mcx-ix.ru:80/ldpr/mono.m3u8
+#EXTINF:0,Красная Линия
+http://iptv1.mcx-ix.ru:80/krasnaya_lin/mono.m3u8
+#EXTINF:0,Стиль и мода (Shop24)
+http://iptv1.mcx-ix.ru:80/stil-moda/mono.m3u8
+#EXTINF:0,БелРос (ТРО)
+http://iptv1.mcx-ix.ru:80/tro-soyuz/mono.m3u8
+#EXTINF:0,Твой Дом
+http://iptv1.mcx-ix.ru:80/tvoy_dom/mono.m3u8
+#EXTINF:0,TV Mall
+http://iptv1.mcx-ix.ru:80/tvmall/mono.m3u8
+#EXTINF:0,Shopping Live
+http://iptv1.mcx-ix.ru:80/shopping-live/mono.m3u8
+#EXTINF:0,Ностальгия
+http://iptv1.mcx-ix.ru:80/nostalgia/mono.m3u8
+#EXTINF:0,Наука 2.0
+http://iptv1.mcx-ix.ru:80/nauka_2/mono.m3u8
+#EXTINF:0,Крик ТВ (тест)
+http://iptv1.mcx-ix.ru:80/KrikTV/mono.m3u8
+#EXTINF:0,Эхо ТВ
+http://iptv1.mcx-ix.ru:80/ExoTV/mono.m3u8
+#EXTINF:0,Югра
+http://iptv1.mcx-ix.ru:80/Yugra/mono.m3u8
+#EXTINF:0,СТРК
+http://iptv1.mcx-ix.ru:80/strk_hd/mono.m3u8
+#EXTINF:0,RTVi
+http://iptv1.mcx-ix.ru:80/RTVI/mono.m3u8
+#EXTINF:0,Дисконт
+http://iptv1.mcx-ix.ru:80/tts-tv/mono.m3u8
+#EXTINF:0,RT Doc (Russia Today Doc)
+http://iptv1.mcx-ix.ru:80/rt-doc/mono.m3u8
+#EXTINF:0,Министерство Идей
+http://iptv1.mcx-ix.ru:80/ministerstvo_idey/mono.m3u8
+#EXTINF:0,Кинопоказ
+http://iptv1.mcx-ix.ru:80/kinopokaz/mono.m3u8
+#EXTINF:0,Домашний Магазин
+http://iptv1.mcx-ix.ru:80/dom-magazin/mono.m3u8
+#EXTINF:0,BBC One
+http://iptv1.mcx-ix.ru:80/bbc/mono.m3u8
+#EXTINF:0,CBS Reality
+http://iptv1.mcx-ix.ru:80/CBSReality/mono.m3u8
+#EXTINF:0,Cartoon Network
+http://iptv1.mcx-ix.ru:80/cartoon-net/mono.m3u8
